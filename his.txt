@@ -1,7 +1,7 @@
 mi nombre es pepe
 
 edad 32 34 56
-alvos
+alvos 2.0
 
 gozu edit
 
